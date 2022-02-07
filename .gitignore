@@ -58,3 +58,8 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
